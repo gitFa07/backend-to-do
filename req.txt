@@ -1,0 +1,19 @@
+Understand Requirements
+        ↓
+Define Minimum Features
+        ↓
+Plan Data Model
+        ↓
+Plan API Endpoints
+        ↓
+Build Backend
+        ↓
+Test Backend
+        ↓
+Build Frontend
+        ↓
+Connect Frontend to Backend
+        ↓
+Test Complete Application
+        ↓
+Improve UI / Add Optional Features
